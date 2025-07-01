@@ -1,4 +1,5 @@
 # Insurance Company Dashboard
+![image](https://github.com/user-attachments/assets/204990e4-25f2-4124-aae9-69e2e2c8a214)
 
 ## Overview
 A comprehensive Power BI dashboard designed to provide executive-level insights into insurance company operations, claims management, and policy performance metrics.
